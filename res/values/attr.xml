@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CicleCustom">
+        <attr name="cicleColor" format="color" />
+        <attr name="strokeWidth" format="dimension"></attr>
+        <attr name="sleepTime" format="integer"></attr>
+    </declare-styleable>
+
+</resources>
